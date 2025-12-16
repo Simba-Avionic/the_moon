@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./the_moon/the_moon"
+    ]
+}
