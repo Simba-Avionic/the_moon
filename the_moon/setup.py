@@ -24,7 +24,8 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'radio433_node = the_moon.radio433_node:main'
+            'radio433_GS = the_moon.radio433_GS:main',
+            'radio433_rocket = the_moon.radio433_rocket:main'
         ],
     },
 )
